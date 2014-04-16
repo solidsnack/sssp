@@ -28,3 +28,12 @@ Thus, to obtain the S3 object `s3://memes.example.com/m/molly/glasses.gif`
 given the above configuration, one would issue
 `GET /gifs/team/m/molly/glasses.gif` to SSSP.
 
+
+Development Status
+==================
+
+Please note that SSSP is a proof of concept port to Mesos and Scala from the
+Haskell version:
+
+  https://github.com/solidsnack/sssp/tree/haskell
+
